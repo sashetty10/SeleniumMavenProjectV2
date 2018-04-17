@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31289" started-at="2018-02-27T09:56:56Z" finished-at="2018-02-27T09:57:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31289" started-at="2018-02-27T09:56:56Z" finished-at="2018-02-27T09:57:28Z">
+      <class name="com.TechM.SeleniumMavenProjectV2.App">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.TechM.SeleniumMavenProjectV2.App@51565ec2]" name="beforeClass" is-config="true" duration-ms="8856" started-at="2018-02-27T15:26:56Z" finished-at="2018-02-27T15:27:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="openMyFBPage()[pri:0, instance:com.TechM.SeleniumMavenProjectV2.App@51565ec2]" name="openMyFBPage" duration-ms="21838" started-at="2018-02-27T15:27:05Z" finished-at="2018-02-27T15:27:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMyFBPage -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.TechM.SeleniumMavenProjectV2.App@51565ec2]" name="afterClass" is-config="true" duration-ms="564" started-at="2018-02-27T15:27:27Z" finished-at="2018-02-27T15:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.TechM.SeleniumMavenProjectV2.App -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
